@@ -70,9 +70,6 @@ PRODUCT_COPY_FILES += \
     device/htc/heroc/prebuilt/gps.conf:system/etc/gps.conf \
     device/htc/heroc/prebuilt/apns-conf.xml:system/etc/apns-conf.xml
 
-PRODUCT_COPY_FILES += \
-   device/htc/heroc/prebuilt/wlan.ko:system/lib/modules/wlan.ko \
-
 # Product Packages
 PRODUCT_PACKAGES += \
     librs_jni \
