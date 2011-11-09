@@ -2,4 +2,6 @@
 <resources>
     <!-- Notification LED can show green and amber only -->
     <bool name="has_dual_notification_led">true</bool>
+
+    <bool name="has_explorer_key">true</bool>
 </resources>

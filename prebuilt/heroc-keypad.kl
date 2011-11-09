@@ -2,7 +2,7 @@ key 102   HOME
 key 139   MENU              WAKE_DROPPED
 key 158   BACK
 key 127   SEARCH
-key 231   CALL
+key 231   EXPLORER
 key 107   ENDCALL           WAKE_DROPPED
 key 191   DPAD_CENTER
 
